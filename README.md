@@ -1,8 +1,20 @@
 <p>
-  <img src="https://i.pinimg.com/originals/aa/d4/1d/aad41d75a61cbb534d5f5ed60c1e4bca.gif"/>
+  <img src="https://www.icegif.com/wp-content/uploads/icegif-4383.gif"/>
 </p>
 
 # Description:
 <p>
   The goal of this project is to create a simple shell.
 </p>
+
+# Keywords:
+<ul>
+  <li> Unix logic</li>
+</ul>
+
+# Skills:
+<ul>
+  <li>Unix</li>
+  <li>Imperative programming</li>
+  <li>Rigor</li>
+</ul>
