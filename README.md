@@ -1,1 +1,1 @@
-![image](https://github.com/nmontiel42/minishell/assets/125030234/b05e6ada-8f3a-4bba-9985-5184c5a72653)
+<img src="https://i.pinimg.com/originals/aa/d4/1d/aad41d75a61cbb534d5f5ed60c1e4bca.gif"/>
